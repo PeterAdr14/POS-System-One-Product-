@@ -1,2 +1,0 @@
-POS: files9.c list9.c main9.c
-	gcc -pthread POS files9.c list9.c main9.c
